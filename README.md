@@ -1,5 +1,7 @@
-# HSE_learning
-mini-programs about C, algorithms and etc.
+# HSE_learning and SFU_learning
+mini-programs about C, C#, algorithms and etc.
+
+RMSEMPAI hate C#.
 
 If you want to change any programs?
 --Don't do anything.
