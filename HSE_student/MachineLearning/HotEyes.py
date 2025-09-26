@@ -44,7 +44,7 @@ print(f"\nИтоговые параметры: w={neuron.w:.2f}, bias={neuron.bi
 
 
 
-import numpy as np
+import numpy as npqq
 import matplotlib.pyplot as plt
 
 # Данные
